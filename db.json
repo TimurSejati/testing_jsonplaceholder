@@ -1,0 +1,81 @@
+{
+	"users": [
+    {
+      "id": 1,
+      "nama": "Nabila",
+      "alamat": "Bandung",
+      "umur": 21,
+      "nohp": "08123123123"
+    },
+    {
+      "id": 2,
+      "nama": "Jems",
+      "alamat": "Medan",
+      "umur": 31,
+      "nohp": "081232132131"
+    },
+    {
+      "id": 3,
+      "nama": "Sulex",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 4,
+      "nama": "Marsya",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 5,
+      "nama": "Dian",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 6,
+      "nama": "Anya",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 7,
+      "nama": "Rou",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 8,
+      "nama": "Adella",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 9,
+      "nama": "Irvan",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 10,
+      "nama": "Lokman",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    },
+    {
+      "id": 11,
+      "nama": "Bella",
+      "alamat": "Jayapura",
+      "umur": 24,
+      "nohp": "081255231323"
+    }
+  ]
+}
